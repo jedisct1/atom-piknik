@@ -1,0 +1,6 @@
+{
+    "atom-workspace": {
+        "ctrl-alt-C": "piknik:copy",
+        "ctrl-alt-V": "piknik:paste"
+    }
+}

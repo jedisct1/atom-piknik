@@ -1,0 +1,24 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Copy to the Piknik clipboard",
+            "command": "piknik:copy"
+        }, {
+            "label": "Paste from the Piknik clipboard",
+            "command": "piknik:paste"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "piknik",
+            "submenu": [{
+                "label": "Copy selection to the Piknik clipboard",
+                "command": "piknik:copy"
+            }, {
+                "label": "Paste the content of the Piknik clipboard",
+                "command": "piknik:paste"
+            }]
+        }]
+    }]
+}
