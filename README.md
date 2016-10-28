@@ -9,6 +9,14 @@ Make a local selection; paste it instantaneously into Atom running on another co
 [Piknik](https://github.com/jedisct1/piknik) has to be installed and configured on the system.
 The `piknik` executable must be in your `$PATH`.
 
+## Installation
+
+```sh
+$ apm install piknik
+```
+
+Or just install `piknik` from the Atom package manager.
+
 ## Usage
 
 * Copy the selection to the shared clipboard: `Ctrl-Alt-Shift C` (or `piknik:copy`)
