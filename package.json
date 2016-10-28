@@ -1,7 +1,7 @@
 {
     "name": "piknik",
     "main": "./lib/piknik",
-    "version": "0.1.0",
+    "version": "0.0.0",
     "description": "Copy/paste anything over the network, right from Atom",
     "keywords": [],
     "activationCommands": {
