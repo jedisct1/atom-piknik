@@ -1,16 +1,19 @@
 {
-    "name": "piknik",
-    "main": "./lib/piknik",
-    "version": "0.0.0",
-    "description": "Copy/paste anything over the network, right from Atom",
-    "keywords": [],
-    "activationCommands": {
-        "atom-workspace": ["piknik:copy", "piknik:paste"]
-    },
-    "repository": "https://github.com/jedisct1/atom-piknik",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "piknik",
+  "main": "./lib/piknik",
+  "version": "0.1.0",
+  "description": "Copy/paste anything over the network, right from Atom",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "piknik:copy",
+      "piknik:paste"
+    ]
+  },
+  "repository": "https://github.com/jedisct1/atom-piknik",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
