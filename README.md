@@ -25,6 +25,6 @@ Or just install `piknik` package from the Atom package manager.
 ## Usage
 
 * Copy the selection to the shared clipboard: `Ctrl-Alt-Shift C` (or `piknik:copy`)
-* Paste the shared clipboard: `Ctrl-Alt-Shift V` (or `piknik-paste`)
+* Paste the shared clipboard: `Ctrl-Alt-Shift V` (or `piknik:paste`)
 
 Enjoy.
