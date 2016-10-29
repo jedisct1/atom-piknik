@@ -9,7 +9,7 @@ Make a local selection; paste it instantaneously into Atom running on another co
 [Piknik](https://github.com/jedisct1/piknik) has to be installed and configured on the system.
 The `piknik` executable must be in your `$PATH`.
 
-On MacOS, this can be easily achieved using Homebrew:
+On macOS, this can be easily achieved using Homebrew:
 ```sh
 $ brew install piknik
 ```
