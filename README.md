@@ -1,6 +1,6 @@
 # Piknik package for Atom
 
-Piknik extension for Atom, to copy/paste anything over the network.
+Copy/paste anything over the network.
 
 Make a local selection; paste it instantaneously into Atom running on another computer.
 
