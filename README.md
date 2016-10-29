@@ -20,7 +20,7 @@ $ brew install piknik
 $ apm install piknik
 ```
 
-Or just install `piknik` from the Atom package manager.
+Or just install `piknik` package from the Atom package manager.
 
 ## Usage
 
